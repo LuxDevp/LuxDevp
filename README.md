@@ -1,7 +1,7 @@
-**Hi there 👋
+##Hi there 👋
 
 
-**👋 Joshua Montero
+##👋 Joshua Montero
 
 💻 Estudiante de Ingeniería en Sistemas
 
